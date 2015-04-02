@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CartographieBDDModelStoreContainer" CdmEntityContainer="CartographieBDDEntities">
+    <EntitySetMapping Name="Categories">
+      <EntityTypeMapping TypeName="CartographieBDDModel.Categorie">
+        <MappingFragment StoreEntitySet="Categorie">
+          <ScalarProperty Name="Nom_Cat" ColumnName="Nom_Cat" />
+          <ScalarProperty Name="Identifiant" ColumnName="Identifiant" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Clients">
+      <EntityTypeMapping TypeName="CartographieBDDModel.Client">
+        <MappingFragment StoreEntitySet="Client">
+          <ScalarProperty Name="Identifiant_Categorie" ColumnName="Identifiant_Categorie" />
+          <ScalarProperty Name="Longitude" ColumnName="Longitude" />
+          <ScalarProperty Name="Latitude" ColumnName="Latitude" />
+          <ScalarProperty Name="Url_Site" ColumnName="Url_Site" />
+          <ScalarProperty Name="Dimension_Entreprise" ColumnName="Dimension_Entreprise" />
+          <ScalarProperty Name="Pays" ColumnName="Pays" />
+          <ScalarProperty Name="Ville" ColumnName="Ville" />
+          <ScalarProperty Name="Code_Postal" ColumnName="Code_Postal" />
+          <ScalarProperty Name="Complement_Adresse" ColumnName="Complement_Adresse" />
+          <ScalarProperty Name="Adresse" ColumnName="Adresse" />
+          <ScalarProperty Name="Nom" ColumnName="Nom" />
+          <ScalarProperty Name="Identifiant" ColumnName="Identifiant" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sessions">
+      <EntityTypeMapping TypeName="CartographieBDDModel.Session">
+        <MappingFragment StoreEntitySet="Session">
+          <ScalarProperty Name="Statut" ColumnName="Statut" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Identifiant" ColumnName="Identifiant" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

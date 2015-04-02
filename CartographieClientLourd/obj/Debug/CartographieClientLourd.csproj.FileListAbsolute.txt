@@ -1,0 +1,41 @@
+P:\cours\Examen BTS\CartographieClientLourd\CartographieClientLourd\bin\Debug\CartographieClientLourd.exe.config
+P:\cours\Examen BTS\CartographieClientLourd\CartographieClientLourd\bin\Debug\CartographieClientLourd.exe
+P:\cours\Examen BTS\CartographieClientLourd\CartographieClientLourd\bin\Debug\CartographieClientLourd.pdb
+P:\cours\Examen BTS\CartographieClientLourd\CartographieClientLourd\obj\Debug\CartographieClientLourd.csprojResolveAssemblyReference.cache
+P:\cours\Examen BTS\CartographieClientLourd\CartographieClientLourd\obj\Debug\CartographieClientLourd.Authentification.resources
+P:\cours\Examen BTS\CartographieClientLourd\CartographieClientLourd\obj\Debug\CartographieClientLourd.Properties.Resources.resources
+P:\cours\Examen BTS\CartographieClientLourd\CartographieClientLourd\obj\Debug\CartographieClientLourd.csproj.GenerateResource.Cache
+P:\cours\Examen BTS\CartographieClientLourd\CartographieClientLourd\obj\Debug\CartographieClientLourd.exe
+P:\cours\Examen BTS\CartographieClientLourd\CartographieClientLourd\obj\Debug\CartographieClientLourd.pdb
+C:\Users\loury\Desktop\CartographieClientLourd\CartographieClientLourd\bin\Debug\CartographieClientLourd.exe.config
+C:\Users\loury\Desktop\CartographieClientLourd\CartographieClientLourd\obj\Debug\CartographieClientLourd.exe
+C:\Users\loury\Desktop\CartographieClientLourd\CartographieClientLourd\obj\Debug\CartographieClientLourd.pdb
+C:\Users\loury\Desktop\CartographieClientLourd\CartographieClientLourd\bin\Debug\CartographieClientLourd.exe
+C:\Users\loury\Desktop\CartographieClientLourd\CartographieClientLourd\bin\Debug\CartographieClientLourd.pdb
+C:\Users\loury\Desktop\CartographieClientLourd\CartographieClientLourd\bin\Debug\Cartographie.DBLib.dll
+C:\Users\loury\Desktop\CartographieClientLourd\CartographieClientLourd\bin\Debug\EntityFramework.dll
+C:\Users\loury\Desktop\CartographieClientLourd\CartographieClientLourd\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\loury\Desktop\CartographieClientLourd\CartographieClientLourd\bin\Debug\Cartographie.DBLib.pdb
+C:\Users\loury\Desktop\CartographieClientLourd\CartographieClientLourd\bin\Debug\EntityFramework.xml
+C:\Users\loury\Desktop\CartographieClientLourd\CartographieClientLourd\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\loury\Desktop\CartographieClientLourd\CartographieClientLourd\obj\Debug\CartographieClientLourd.csprojResolveAssemblyReference.cache
+C:\Users\loury\Desktop\CartographieClientLourd\CartographieClientLourd\obj\Debug\CartographieClientLourd.Authentification.resources
+C:\Users\loury\Desktop\CartographieClientLourd\CartographieClientLourd\obj\Debug\CartographieClientLourd.GestionClient.resources
+C:\Users\loury\Desktop\CartographieClientLourd\CartographieClientLourd\obj\Debug\CartographieClientLourd.Properties.Resources.resources
+C:\Users\loury\Desktop\CartographieClientLourd\CartographieClientLourd\obj\Debug\CartographieClientLourd.csproj.GenerateResource.Cache
+P:\cours\BTS 2eme annee\C#\CartographieClientLourd\CartographieClientLourd\bin\Debug\CartographieClientLourd.exe.config
+P:\cours\BTS 2eme annee\C#\CartographieClientLourd\CartographieClientLourd\obj\Debug\CartographieClientLourd.exe
+P:\cours\BTS 2eme annee\C#\CartographieClientLourd\CartographieClientLourd\obj\Debug\CartographieClientLourd.pdb
+P:\cours\BTS 2eme annee\C#\CartographieClientLourd\CartographieClientLourd\obj\Debug\CartographieClientLourd.csprojResolveAssemblyReference.cache
+P:\cours\BTS 2eme annee\C#\CartographieClientLourd\CartographieClientLourd\obj\Debug\CartographieClientLourd.Authentification.resources
+P:\cours\BTS 2eme annee\C#\CartographieClientLourd\CartographieClientLourd\obj\Debug\CartographieClientLourd.GestionClient.resources
+P:\cours\BTS 2eme annee\C#\CartographieClientLourd\CartographieClientLourd\obj\Debug\CartographieClientLourd.Properties.Resources.resources
+P:\cours\BTS 2eme annee\C#\CartographieClientLourd\CartographieClientLourd\obj\Debug\CartographieClientLourd.csproj.GenerateResource.Cache
+P:\cours\BTS 2eme annee\C#\CartographieClientLourd\CartographieClientLourd\bin\Debug\CartographieClientLourd.exe
+P:\cours\BTS 2eme annee\C#\CartographieClientLourd\CartographieClientLourd\bin\Debug\CartographieClientLourd.pdb
+P:\cours\BTS 2eme annee\C#\CartographieClientLourd\CartographieClientLourd\bin\Debug\Cartographie.DBLib.dll
+P:\cours\BTS 2eme annee\C#\CartographieClientLourd\CartographieClientLourd\bin\Debug\EntityFramework.dll
+P:\cours\BTS 2eme annee\C#\CartographieClientLourd\CartographieClientLourd\bin\Debug\EntityFramework.SqlServer.dll
+P:\cours\BTS 2eme annee\C#\CartographieClientLourd\CartographieClientLourd\bin\Debug\Cartographie.DBLib.pdb
+P:\cours\BTS 2eme annee\C#\CartographieClientLourd\CartographieClientLourd\bin\Debug\EntityFramework.xml
+P:\cours\BTS 2eme annee\C#\CartographieClientLourd\CartographieClientLourd\bin\Debug\EntityFramework.SqlServer.xml
