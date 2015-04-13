@@ -20,14 +20,3 @@ P:\cours\BTS 2eme annee\C#\CartographieClientLourd\Cartographie.DBLib\bin\Debug\
 P:\cours\BTS 2eme annee\C#\CartographieClientLourd\Cartographie.DBLib\obj\Debug\Cartographie.DBLib.csprojResolveAssemblyReference.cache
 P:\cours\BTS 2eme annee\C#\CartographieClientLourd\Cartographie.DBLib\obj\Debug\Cartographie.DBLib.dll
 P:\cours\BTS 2eme annee\C#\CartographieClientLourd\Cartographie.DBLib\obj\Debug\Cartographie.DBLib.pdb
-C:\Users\lo01.octave\Desktop\Projet BTS\CartographieClientLourd\Cartographie.DBLib\bin\Debug\Cartographie.DBLib.dll.config
-C:\Users\lo01.octave\Desktop\Projet BTS\CartographieClientLourd\Cartographie.DBLib\bin\Debug\Cartographie.DBLib.dll
-C:\Users\lo01.octave\Desktop\Projet BTS\CartographieClientLourd\Cartographie.DBLib\bin\Debug\Cartographie.DBLib.pdb
-C:\Users\lo01.octave\Desktop\Projet BTS\CartographieClientLourd\Cartographie.DBLib\bin\Debug\EntityFramework.dll
-C:\Users\lo01.octave\Desktop\Projet BTS\CartographieClientLourd\Cartographie.DBLib\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\lo01.octave\Desktop\Projet BTS\CartographieClientLourd\Cartographie.DBLib\bin\Debug\EntityFramework.xml
-C:\Users\lo01.octave\Desktop\Projet BTS\CartographieClientLourd\Cartographie.DBLib\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\lo01.octave\Desktop\Projet BTS\CartographieClientLourd\Cartographie.DBLib\bin\Debug\fr\EntityFramework.resources.dll
-C:\Users\lo01.octave\Desktop\Projet BTS\CartographieClientLourd\Cartographie.DBLib\obj\Debug\Cartographie.DBLib.csprojResolveAssemblyReference.cache
-C:\Users\lo01.octave\Desktop\Projet BTS\CartographieClientLourd\Cartographie.DBLib\obj\Debug\Cartographie.DBLib.dll
-C:\Users\lo01.octave\Desktop\Projet BTS\CartographieClientLourd\Cartographie.DBLib\obj\Debug\Cartographie.DBLib.pdb
