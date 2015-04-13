@@ -14,7 +14,7 @@ namespace CartographieClientLourd
 {
     public partial class GestionClient : Form
     {
-        private ObservableCollection<Client> listClients = null;
+        private List<Client> listClients = null;
         private ObservableCollection<Categorie> listCat = null;
 
         CartographieBDDEntities db = new CartographieBDDEntities();
@@ -23,7 +23,7 @@ namespace CartographieClientLourd
         {
             InitializeComponent();
 
-            listClients = new ObservableCollection<Client>();
+            listClients = new List<Client>();
             clientDataGridView.DataSource = db.Clients.ToList();
 
             listCat = new ObservableCollection<Categorie>();
@@ -41,7 +41,7 @@ namespace CartographieClientLourd
         {
             try
             {
-                listClients = new ObservableCollection<Client>();
+                listClients = new List<Client>();
 
                 //Ajout valeur a variable
                 listClients.Add(new Client()
@@ -80,7 +80,7 @@ namespace CartographieClientLourd
 
         private void deleteButton_Click(object sender, EventArgs e)
         {
-            listClients = new ObservableCollection<Client>();
+            listClients = new List<Client>();
             if(clientDataGridView.SelectedRows.Count > 0 && clientDataGridView.SelectedRows.Count <= 1)
             {
                 Client clientSelect = (Client)clientDataGridView.SelectedRows[0].DataBoundItem;
